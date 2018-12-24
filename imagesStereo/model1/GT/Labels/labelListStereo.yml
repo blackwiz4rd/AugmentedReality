@@ -1,0 +1,7 @@
+%YAML:1.0
+SIR-LASER:
+  rectRoiRectified:
+    - 0
+    - 0
+    - 640
+    - 480
