@@ -1,0 +1,50 @@
+>> A3
+I'M USING model2 image #1
+
+version & best block & best range & MSE & complexity \\ 
+1 & 25 &  48 & 19.821085 & 14745600.00\\ 
+
+Reusing the result of image resize by 0.50 for original image
+version & resize & best block & best range & MSE & MSE reduction & complexity reduction 
+1 & 0.50 & 21 &  80 & 27.234734 & 27.22 \% & 58.33 \% \\ 
+
+Reusing the result of image resize by 0.25 for original image
+version & resize & best block & best range & MSE & MSE reduction & complexity reduction 
+1 & 0.25 & 11 &  16 & 24.474241 & 19.01 \% & 97.92 \% \\ 
+
+Reusing the result of image resize by 0.12 for original image
+version & resize & best block & best range & MSE & MSE reduction & complexity reduction 
+1 & 0.12 &  7 &  16 & 41.277653 & 51.98 \% & 99.48 \% \\ 
+I'M USING model2 image #2
+
+version & best block & best range & MSE & complexity \\ 
+2 & 25 &  48 & 19.853476 & 14745600.00\\ 
+
+Reusing the result of image resize by 0.50 for original image
+version & resize & best block & best range & MSE & MSE reduction & complexity reduction 
+2 & 0.50 & 21 &  32 & 25.729816 & 22.84 \% & 83.33 \% \\ 
+
+Reusing the result of image resize by 0.25 for original image
+version & resize & best block & best range & MSE & MSE reduction & complexity reduction 
+2 & 0.25 & 11 &  16 & 24.447748 & 18.79 \% & 97.92 \% \\ 
+
+Reusing the result of image resize by 0.12 for original image
+version & resize & best block & best range & MSE & MSE reduction & complexity reduction 
+2 & 0.12 &  7 &  16 & 41.246197 & 51.87 \% & 99.48 \% \\ 
+I'M USING model2 image #3
+
+version & best block & best range & MSE & complexity \\ 
+3 & 25 &  48 & 19.797880 & 14745600.00\\ 
+
+Reusing the result of image resize by 0.50 for original image
+version & resize & best block & best range & MSE & MSE reduction & complexity reduction 
+3 & 0.50 & 21 &  32 & 25.792824 & 23.24 \% & 83.33 \% \\ 
+
+Reusing the result of image resize by 0.25 for original image
+version & resize & best block & best range & MSE & MSE reduction & complexity reduction 
+3 & 0.25 & 11 &  16 & 24.456842 & 19.05 \% & 97.92 \% \\ 
+
+Reusing the result of image resize by 0.12 for original image
+version & resize & best block & best range & MSE & MSE reduction & complexity reduction 
+3 & 0.12 &  7 &  16 & 41.248436 & 52.00 \% & 99.48 \% \\ 
+>> 
